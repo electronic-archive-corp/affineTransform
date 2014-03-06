@@ -1,2 +1,6 @@
 .idea/
 *.iml
+app.js
+app.map
+tests.js
+tests.map
